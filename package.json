@@ -1,0 +1,22 @@
+{
+  "name": "four_nums_to_sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aromanyuk/four_nums_to_sum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aromanyuk/four_nums_to_sum/issues"
+  },
+  "homepage": "https://github.com/aromanyuk/four_nums_to_sum#readme",
+  "dependencies": {
+    "memwatch-next": "^0.3.0"
+  }
+}
